@@ -1,6 +1,11 @@
 # DroidJack 3.3 - Android Remote Administration Tool
 ![Alt text](image.webp)
 
+## ℹ Where buy It?
+
+https://t.me/TorTerpeneTerror
+
+
 ## 🚀 Core Features
 
 ### 📱 **WhatsApp Message Interception**
@@ -34,8 +39,5 @@ The **flagship capability** of DroidJack 3.3 is its powerful WhatsApp monitoring
 ├── Application Management (install/remove)
 ├── System Settings Modification
 ├── Network Information
-└── Battery Status Monitoring```
+└── Battery Status Monitoring
 
-## Where buy It?
-
-https://t.me/TorTerpeneTerror
